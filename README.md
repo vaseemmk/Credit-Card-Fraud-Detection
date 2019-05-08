@@ -1,5 +1,4 @@
-# Machine-Learning-Projects
-## I have written few Machine Learning Projects on Python using Jupyter Notebook. 
-* Credit Card Fraud Detection using Supervised ML model
-* Credit Card Fraud Detection using Unsupervised ML model
-* Spam Detection using Natural Language Processing
+# Fraud Detection using Logistic Regression
+### The data is highly imbalanced and here I am using two techniques to balance it out.
+### 1) Over Sampling using SMOTE
+### 2)Undersampling based on NearMiss methods
